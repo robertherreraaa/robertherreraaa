@@ -16,15 +16,6 @@
 </div>
 
 
-<!-- Stats -->
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=robertherreraaa&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertherreraaa&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-
 
 <!-- Snake Animation -->
 <div align="center">
